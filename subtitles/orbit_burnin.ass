@@ -1,0 +1,37 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 3840
+PlayResY: 2160
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,IBM Plex Sans Arabic Medium,88,&H00FFFFFF,&H00FFFFFF,&H50100803,&H78000000,0,0,0,0,100,100,0,0,1,4,3,2,400,400,180,-1
+Style: Brand,Michroma,60,&H00FFFFFF,&H00FFFFFF,&H64281205,&H78000000,0,0,0,0,100,100,0,0,1,2,4,5,0,0,0,1
+Style: Zone,Michroma,44,&H00FFFFFF,&H00FFFFFF,&H64281205,&H78000000,0,0,0,0,100,100,10,0,1,2,3,7,220,220,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 5,0:00:17.40,0:00:22.60,Brand,,0,0,0,,{\pos(1955,800)\fs230\fsp70\fad(900,500)\blur0.6}ORBIT
+Dialogue: 5,0:00:18.00,0:00:22.60,Brand,,0,0,0,,{\pos(1928,990)\fs58\fsp16\fad(900,500)}EDUCATIONAL & TOURISM SPACE CENTER
+Dialogue: 4,0:00:23.50,0:00:26.40,Zone,,0,0,0,,{\fad(350,350)\1c&HFFA93D&}—  {\1c&HFFFFFF&}SOLAR SYSTEM ZONE
+Dialogue: 4,0:00:26.90,0:00:29.80,Zone,,0,0,0,,{\fad(350,350)\1c&HFFA93D&}—  {\1c&HFFFFFF&}SPACE STATION ZONE
+Dialogue: 4,0:00:30.30,0:00:33.20,Zone,,0,0,0,,{\fad(350,350)\1c&HFFA93D&}—  {\1c&HFFFFFF&}MOON EXPLORATION ZONE
+Dialogue: 4,0:00:33.70,0:00:36.60,Zone,,0,0,0,,{\fad(350,350)\1c&HFFA93D&}—  {\1c&HFFFFFF&}MARS EXPLORATION ZONE
+Dialogue: 4,0:00:37.10,0:00:40.00,Zone,,0,0,0,,{\fad(350,350)\1c&HFFA93D&}—  {\1c&HFFFFFF&}EARTH OBSERVATION ZONE
+Dialogue: 0,0:00:55.00,0:01:00.00,Brand,,0,0,0,,{\an5\pos(1920,600)\frz20\1a&HFF&\bord5\shad0\3c&HFFA93D&\blur1\fad(1000,0)\p1}m 660 112 b 660 174 512 224 330 224 b 148 224 0 174 0 112 b 0 50 148 0 330 0 b 512 0 660 50 660 112
+Dialogue: 1,0:00:55.00,0:01:00.00,Brand,,0,0,0,,{\an5\pos(1920,600)\bord0\shad0\1c&HFFFFFF&\blur1\fad(1000,0)\p1}m 156 78 b 156 121 121 156 78 156 b 35 156 0 121 0 78 b 0 35 35 0 78 0 b 121 0 156 35 156 78
+Dialogue: 2,0:00:55.00,0:01:00.00,Brand,,0,0,0,,{\an5\pos(1920,600)\frz20\1a&HFF&\bord5\shad0\3c&HFFA93D&\blur1\fad(1000,0)\clip(m 40 1284 l 3799 -84 4483 1795 724 3163)\p1}m 660 112 b 660 174 512 224 330 224 b 148 224 0 174 0 112 b 0 50 148 0 330 0 b 512 0 660 50 660 112
+Dialogue: 3,0:00:55.00,0:01:00.00,Brand,,0,0,0,,{\an5\pos(2187,575)\bord0\shad0\1c&HFF7B9B&\blur1\fad(1000,0)\p1}m 40 20 b 40 31 31 40 20 40 b 9 40 0 31 0 20 b 0 9 9 0 20 0 b 31 0 40 9 40 20
+Dialogue: 5,0:00:55.40,0:01:00.00,Brand,,0,0,0,,{\pos(1952,940)\fs200\fsp64\fad(1000,0)\blur0.6}ORBIT
+Dialogue: 5,0:00:55.80,0:01:00.00,Brand,,0,0,0,,{\pos(1928,1105)\fs56\fsp16\fad(1000,0)}EDUCATIONAL & TOURISM SPACE CENTER
+Dialogue: 5,0:00:56.40,0:01:00.00,Brand,,0,0,0,,{\pos(1925,1250)\fs50\fsp10\fad(1000,0)\1c&HFFA93D&}BRINGING THE UNIVERSE CLOSER TO EVERYONE.
+Dialogue: 9,0:00:01.50,0:00:07.20,Sub,,0,0,0,,{\fad(180,180)\blur0.8}‏هل تخيلت يوماً أن تستكشف الكون دون أن تغادر الأرض؟
+Dialogue: 9,0:00:08.30,0:00:14.70,Sub,,0,0,0,,{\fad(180,180)\blur0.8}‏رغم التطور الهائل في علوم الفضاء،\N‏لا يزال استكشاف الكون بعيد المنال بالنسبة للكثيرين.
+Dialogue: 9,0:00:15.60,0:00:22.40,Sub,,0,0,0,,{\fad(180,180)\blur0.8}‏نقدم لكم ORBIT، وجهة جديدة\N‏يلتقي فيها التعليم بعالم استكشاف الفضاء المذهل.
+Dialogue: 9,0:00:23.40,0:00:29.60,Sub,,0,0,0,,{\fad(180,180)\blur0.8}‏من اكتشاف الكواكب البعيدة\N‏إلى تجربة الحياة داخل المحطات الفضائية،
+Dialogue: 9,0:00:30.40,0:00:36.20,Sub,,0,0,0,,{\fad(180,180)\blur0.8}‏ومن السير على سطح القمر\N‏إلى استكشاف أسرار المريخ.
+Dialogue: 9,0:00:39.40,0:00:45.20,Sub,,0,0,0,,{\fad(180,180)\blur0.8}‏من خلال التكنولوجيا الغامرة والتجارب التفاعلية،\N‏نحول المعرفة العلمية إلى مغامرات لا تُنسى.
+Dialogue: 9,0:00:46.40,0:00:55.20,Sub,,0,0,0,,{\fad(180,180)\blur0.8}‏مهمتنا ليست فقط تعليم الناس عن الفضاء،\N‏بل إلهام الجيل القادم ليكون جزءاً من مستقبله.
+Dialogue: 9,0:00:56.00,0:00:59.60,Sub,,0,0,0,,{\fad(180,180)\blur0.8}‏ORBIT — نجعل الكون أقرب إلى الجميع.

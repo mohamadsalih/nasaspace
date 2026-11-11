@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" aria-label="ORBIT">
+  <!-- For dark backgrounds. Same geometry as the end card drawn by build.py. -->
+  <defs>
+    <clipPath id="front"><rect x="-400" y="0" width="800" height="200"/></clipPath>
+  </defs>
+  <g transform="translate(400 200) rotate(-20)" fill="none" stroke="#3DA9FF" stroke-width="5">
+    <ellipse rx="330" ry="112"/>
+    <circle r="78" fill="#FFFFFF" stroke="none" transform="rotate(20)"/>
+    <ellipse rx="330" ry="112" clip-path="url(#front)"/>
+    <circle cx="260" cy="69" r="20" fill="#9B7BFF" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+1
+00:00:01,500 --> 00:00:07,200
+Have you ever imagined exploring the universe without ever leaving Earth?
+
+2
+00:00:08,300 --> 00:00:14,700
+Despite incredible advances in space science, exploring the universe remains out of reach for many.
+
+3
+00:00:15,600 --> 00:00:22,400
+Introducing ORBIT — a new destination where education meets the extraordinary world of space exploration.
+
+4
+00:00:23,400 --> 00:00:29,600
+From discovering distant planets to experiencing life aboard a space station,
+
+5
+00:00:30,400 --> 00:00:36,200
+from walking on the Moon to exploring the mysteries of Mars.
+
+6
+00:00:39,400 --> 00:00:45,200
+Through immersive technology and interactive experiences, we transform scientific knowledge into unforgettable adventures.
+
+7
+00:00:46,400 --> 00:00:55,200
+Our mission is not just to teach people about space, but to inspire the next generation to become part of its future.
+
+8
+00:00:56,000 --> 00:00:59,600
+ORBIT — bringing the universe closer to everyone.

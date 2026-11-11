@@ -1,0 +1,8 @@
+out/
+clips/*
+!clips/.gitkeep
+audio/*
+!audio/vo/
+audio/vo/*
+!audio/vo/.gitkeep
+__pycache__/
